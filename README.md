@@ -6,6 +6,6 @@ title = "Some basic Sample content"
 
  # Embedding a partial.
 In this article we will embedd conten from a partial.
-{{< partial "wibble.md" >}}
+{{artial "wibble.md" }}
 
  Lorem ipsum dolor.
