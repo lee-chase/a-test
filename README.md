@@ -1,7 +1,3 @@
-# a-test
-
-## Still here
-
 +++
 title = "Some basic Sample content"
 +++
